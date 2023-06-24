@@ -50,34 +50,34 @@ class App extends Component{
 
                         <div className='card1'>
                             <div className='item1'>
-                                <img src='image/10.png' alt=''/>
+                                <img src='image/10.png' alt='image'/>
                                 <h3>Döküman Analizi</h3>
                                 <p>Ante vulputate ut at accumsan et. Feugiat at tempus, est senectus amet, elementum.</p>
                             </div>
                             <div className='item1'>
-                                <img src='image/12.png' alt=''/>
+                                <img src='image/12.png' alt='image'/>
                                 <h3>Kabul ve Değerlendirme</h3>
                                 <p>Ante vulputate ut at accumsan et. Feugiat at tempus, est senectus amet, elementum.</p>
                             </div>
                             <div className='item1'>
-                                <img src='image/13.png' alt=''/>
+                                <img src='image/13.png' alt='image'/>
                                 <h3>İş Kuralları Analizi</h3>
                                 <p>Ante vulputate ut at accumsan et. Feugiat at tempus, est senectus amet, elementum.</p>
                             </div>
                         </div>
                         <div className='card1 card2'>
                             <div className='item1'>
-                                <img src='image/14.png' alt=''/>
+                                <img src='image/14.png' alt='picture'/>
                                 <h3>Döküman Analizi</h3>
                                 <p>Ante vulputate ut at accumsan et. Feugiat at tempus, est senectus amet, elementum.</p>
                             </div>
                             <div className='item1'>
-                                <img src='image/15.png' alt=''/>
+                                <img src='image/15.png' alt='picture'/>
                                 <h3>Kabul ve Değerlendirme</h3>
                                 <p>Ante vulputate ut at accumsan et. Feugiat at tempus, est senectus amet, elementum.</p>
                             </div>
                             <div className='item1'>
-                                <img src='image/16.png' alt=''/>
+                                <img src='image/16.png' alt='picture'/>
                                 <h3>İş Kuralları Analizi</h3>
                                 <p>Ante vulputate ut at accumsan et. Feugiat at tempus, est senectus amet, elementum.</p>
                             </div>
@@ -114,14 +114,14 @@ class App extends Component{
                                 </div>
                                 <button className=' btn'>Submit</button>
                             </div>
-                            <div className='decorimg decoritem'><img src='image/1.jpg' alt=''/></div>
+                            <div className='decorimg decoritem'><img src='image/1.jpg' alt='pic'/></div>
                         </div>
 
                         {/* images 2 be careful */}
 
 
                         <div className='decor1 decor2'>
-                            <div className='decorimg2 decoritem'><img src='image/illustration2.jpg' alt=''/></div>
+                            <div className='decorimg2 decoritem'><img src='image/illustration2.jpg' alt='pic'/></div>
 
                             <div className='decorwrap decor2item'>
                                 <h1 className='decor-heading'> Kalite ve Süreç Yönetimi</h1>
@@ -205,7 +205,7 @@ class App extends Component{
                         </div>
                         <div className='footer-copyright'>
                             <div><p className='copyright'>© Copyright 2010-2021 - Can Çevik</p></div>
-                            <div><img src='image/21.png' alt=''/></div>
+                            <div><img src='image/21.png' alt='picture'/></div>
                         </div>
                     </section>
                 </div>
