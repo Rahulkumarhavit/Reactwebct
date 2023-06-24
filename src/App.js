@@ -91,9 +91,9 @@ class App extends Component{
                         <p className='strip-para'>IoT Destekli Çözümler</p>
                         <div className='strip-card'>
                             <div className='strip-item'><p>vulputate nut at accumsa et.ut at accumsa</p></div>
-                            <div className='strip-item itemspan'><span className='spantick'><img src='image/19.png'/></span> <p>vulputate ut at accumsan et.ut at accumsa</p></div>
-                            <div className='strip-item itemspan'><span className='spantick'><img src='image/19.png'/></span> <p>vulputate ut at accumsan et.ut at accumsa</p></div>
-                            <div className='strip-item itemspan'><span className='spantick'><img src='image/19.png'/></span> <p>vulputate ut at accumsan et.ut at accumsa</p></div>                            
+                            <div className='strip-item itemspan'><span className='spantick'><img src='image/19.png' alt='react logo' /></span> <p>vulputate ut at accumsan et.ut at accumsa</p></div>
+                            <div className='strip-item itemspan'><span className='spantick'><img src='image/19.png' alt='react logo'/></span> <p>vulputate ut at accumsan et.ut at accumsa</p></div>
+                            <div className='strip-item itemspan'><span className='spantick'><img src='image/19.png' alt='react logo'/></span> <p>vulputate ut at accumsan et.ut at accumsa</p></div>                            
                         </div>
 
 
@@ -145,12 +145,12 @@ class App extends Component{
                             <h1>Referanslarımız</h1>
                             <p>Bize güvenen ve beraber çalıştığımız iş ortaklarımız</p>
                         </div>
-                        <div className='testimonial-img'><img src='image/20.png'/></div>
+                        <div className='testimonial-img'><img src='image/20.png'alt='react logo'/></div>
                     </section>
 
                     <section className='bize'>
                         <div className='bize-main'>
-                            <img src='image/18.png'/>
+                            <img src='image/18.png' alt='react logo'/>
                             <h1>Bize Ulaşın</h1>
                             <p>Çözüm, hizmet ve ürünlerimiz hakkında detaylı bilgi için bizimle irtibata geçin.</p>
                             <button className=' btn'>Submit</button>
